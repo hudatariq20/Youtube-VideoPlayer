@@ -8,9 +8,7 @@ his project is a Flutter-based mobile application that mimics the **"YouTube Sho
 
 * **Vertical Video Feed**: Users can swipe up and down to browse through a list of short videos, similar to YouTube Shorts or TikTok.
 * **Video Streaming**: Videos are streamed from Mux using their API, with each video’s metadata and playback information fetched dynamically.
-* **Progress Indicator**: Each video displays a progress bar at the bottom, showing how much of the video has played.
 * **Custom Navigation Bar**: A bottom navigation bar allows for easy navigation within the app.
-* **Modern UI**: Uses Material Design, Google Fonts, and Flex Color Scheme for a polished look.
 * **Asset and Network Support**: The app can be configured to play videos from local assets or from the network (Mux).
 
 ## 🎨 Demo Link
